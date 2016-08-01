@@ -1,0 +1,8 @@
+- [Getting Started](Getting-Started)
+  - [Encore Product Description](Encore-Product-Description)
+  - [System Requirements](System-Requirements)
+  - [Installation](Installation)
+- [Encore Development](Encore-Development)
+  - [Release Instructions](Release-Instructions)
+  - [Style Guide](Style-Guide)
+  - [How to Contribute](How-to-Contribute)
