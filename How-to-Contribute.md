@@ -4,7 +4,7 @@ Encore is an open source project and anyone is welcome to contribute. However, p
 
 ## Instructions
 
-#### One-time Setup
+### One-time Setup
 1. Fork the [encore-matlab](https://github.com/Encore-DMS/encore-matlab) repository
 1. Clone your personal fork to your computer:  
 `git clone https://github.com/YOUR_USERNAME/encore-matlab.git`
